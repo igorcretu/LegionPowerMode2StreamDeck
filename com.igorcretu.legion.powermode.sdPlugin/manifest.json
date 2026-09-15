@@ -1,0 +1,31 @@
+{
+  "Actions": [
+    {
+      "UUID": "com.igorcretu.legion.powermode.mode",
+      "Icon": "static/img/App-logo.png",
+      "States": [
+        { "Image": "static/img/App-logo.png" }
+      ],
+      "Settings": {},
+      "UserTitleEnabled": false,
+      "SupportedInMultiActions": false,
+      "Controllers": ["Keypad"],
+      "Name": "Power Mode",
+      "Tooltip": "Shows current Legion power mode. Press to cycle Quiet → Balance → Performance."
+    }
+  ],
+  "Version": "1.0.0",
+  "Name": "Legion Power Mode",
+  "Icon": "static/img/App-logo.png",
+  "CategoryIcon": "static/img/App-logo.png",
+  "Category": "Legion Power Mode",
+  "Description": "Cycle your Lenovo Legion laptop power mode (Quiet / Balance / Performance) via Lenovo Legion Toolkit.",
+  "CodePathWin": "plugin/index.js",
+  "SDKVersion": 1,
+  "Nodejs": { "Version": "20" },
+  "Author": "Igor Cretu",
+  "URL": "",
+  "OS": [
+    { "Platform": "windows", "MinimumVersion": "10" }
+  ]
+}
