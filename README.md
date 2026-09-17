@@ -1,6 +1,12 @@
-# ⚡ LegionPowerMode2StreamDeck
+<p align="center">
+  <img src="docs/logo.png" width="140" alt="LegionPowerMode2StreamDeck logo" />
+</p>
 
-Cycle your Lenovo Legion laptop's power mode — **Quiet → Balance → Performance** — with a single key press, straight from your dock. No Lenovo Vantage. No Lenovo Legion Toolkit. Not even installed.
+<h1 align="center">LegionPowerMode2StreamDeck</h1>
+
+<p align="center">
+  Cycle your Lenovo Legion laptop's power mode — <b>Quiet → Balance → Performance</b> — with a single key press, straight from your dock. No Lenovo Vantage. No Lenovo Legion Toolkit. Not even installed.
+</p>
 
 A plugin for [StreamDock](https://www.hotspottek.com/) (Ajazz/Mirabox) that talks to the same firmware interface Lenovo's own apps use, directly.
 
